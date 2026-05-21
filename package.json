@@ -1,0 +1,10 @@
+{
+  "name": "hybrid-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for airdrop tasks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}Add package.json
